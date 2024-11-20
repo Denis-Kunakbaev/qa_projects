@@ -1,0 +1,18 @@
+class Constants:
+    CONFIG = 'config.json'
+    LOGIN = 'LOGIN'
+    PASSWORD = 'PASSWORD'
+    NEXAGE_PROJ = 'Nexage'
+    COOKIES_NAME = 'token'
+    START_TIME_PATTERN_FROM_WEB = '%Y-%m-%d %H:%M:%S.%f'
+    START_TIME_PATTERN_FOR_LOAD = '%Y/%m/%d %H:%M:%S'
+    LENGHT_OF_RANDOM_TEXT = 10
+    ENVIRONMENT = 'KUNAKBAEV'
+    TAKEN_IMAGE = 'resources/taken_img.png'
+    DOWNLOADED_IMAGE = 'resources/downloaded_img.png'
+    CONTENT_TYPE = 'image/png;base64'
+    CLOSING_TAG = '</test>'
+    TEST = 'test'
+    LOGS_FOLDER = 'Log'
+    LOGS_FILENAME = 'log.log'
+    TEST_ID_PARAM = '?testId={test_id}'
