@@ -1,0 +1,10 @@
+{
+  "startUrl": "https://vk.com/",
+  "apiUrl": "https://api.vk.com/method/",
+  "token": "Your access token",
+  "version": "5.199",
+  "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"},
+  "email": "Your email",
+  "password": "Your account password",
+  "user_name": "Your user name and surname"
+}
